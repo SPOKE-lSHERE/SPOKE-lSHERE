@@ -14,3 +14,9 @@
 <p align="center">
     <img width="200" src="https://i.postimg.cc/Z51xCgZq/IMG-20250907-192720.jpg" alt="spoke">
 </p>
+<p align="center">
+    <a href="https://mutinyyaoi.straw.page/">ext</a>
+</p>
+<p align="center">
+    <img width="200" src="https://i.postimg.cc/gcvMm4pL/Untitled2059-20250908203215.png" alt="spoke">
+</p>
